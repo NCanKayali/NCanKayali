@@ -8,7 +8,7 @@ I'm Can from Turkey, and I do content on Design Development. I really enjoy lear
 Skills:  JS / HTML / CSS/ BOOSTRAP
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Vue.js 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NCanKayali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/can-kayal%C4%B1-2ba468213//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KAYALI_CAN)  
